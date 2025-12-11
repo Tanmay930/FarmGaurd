@@ -1,0 +1,7 @@
+{
+  "name": "FarmGuard",
+  "description": "A pesticide price comparison tool, organic alternative guide, and treatment cost calculator for farmers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
